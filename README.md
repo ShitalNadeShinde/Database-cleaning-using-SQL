@@ -1,5 +1,6 @@
 # Database-cleaning-using-SQL
 Database cleaning using SQL queries step by step
+
 Step 1 :- To check for duplicates
 
 Step 2 :- Check For Null Values
